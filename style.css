@@ -8,3 +8,22 @@
 img{
     height: 300px;
 }
+
+.primero{
+    color: aqua;
+    background-color: blueviolet;
+}
+
+.fondo{
+    background-color: blueviolet;
+}
+
+.rebel{
+    color: blue;
+    background-color: chartreuse;
+}
+
+.rebell{
+    background-color: chartreuse;
+    color: brown;
+}
